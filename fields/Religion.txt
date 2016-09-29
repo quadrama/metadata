@@ -13,6 +13,7 @@ Gebet
 geheiligt
 Glaube
 Gott
+Gottes
 Gottesdienst
 Gottesglauben
 Gotteslästerung
@@ -44,3 +45,13 @@ Schöpfer
 Synagoge
 Theologie
 Vogt
+Segen
+Demut
+vergeben 
+Vergebung
+Himmel
+Götter
+göttlich
+gottlos
+Gotteswillen
+Herrgott
