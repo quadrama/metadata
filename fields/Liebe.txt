@@ -4,7 +4,6 @@ Angebetete
 aufrichtig
 Aufrichtigkeit
 begehren
-Begehren
 Begierde
 begieren
 beweinen
@@ -53,7 +52,6 @@ Rose
 Schönheit
 Seele
 sehnen
-sehnen
 Sehnsucht
 Sinn 
 sinnlich
@@ -83,7 +81,6 @@ Geliebte
 Geliebteste
 Jüngling
 Liebchen
-Liebchen
 liebeglühend
 Liebende
 Liebesfest
@@ -93,6 +90,5 @@ Liebster
 Liebstes
 Treue
 vergöttern
-vergöttre
 Verlieben
 Wollust
